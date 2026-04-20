@@ -1,0 +1,11 @@
+python=3.10
+numpy==1.26.4
+opencv-python
+scikit-learn
+tqdm
+torch
+torchvision
+torch-geometric
+ultralytics
+pandas
+matplotlib
